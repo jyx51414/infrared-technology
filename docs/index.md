@@ -125,5 +125,7 @@ Describe synthesis models, assumptions, and pipelines.
 ## 3. Related Methods
 
 Summarize related methods and literature.
+
 ## Dataset
-[View Dataset Page](dataset.html)
+👉 [View Dataset Page](dataset.html)
+
