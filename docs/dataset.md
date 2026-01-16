@@ -521,9 +521,8 @@ In Proceedings of the ICCV Workshop on Visual Domain Adaptation and Dataset Bias
 
 ---
 
-## 5. 如何在主页引用本页面
+## 5. 在主页引用本页面
 
-在 `docs/index.md` 加一段链接即可：
 
 ```md
 ## Dataset
