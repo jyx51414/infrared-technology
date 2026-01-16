@@ -5,10 +5,6 @@ title: Datasets
 
 # 数据集（Datasets）
 
-本页面由 Excel（`数据集(1)(1).xlsx` / Sheet1）自动生成，用于快速对比红外/多模态相关数据集的规模、分辨率、标注等信息。
-
-> 说明：由于 Excel 主要包含“任务/名称/出处/网址/描述”，表格中的 **Img pairs / Resolution / Color / Obj/Cats / Cha-Sc / Anno** 有一部分是从“描述/任务”里做的规则化提取与推断（未知用 **—** 或 **❓** 表示）。你可以按真实信息再手动修正。
-
 ---
 
 ## Dataset Comparison
