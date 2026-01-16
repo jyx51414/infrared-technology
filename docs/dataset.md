@@ -521,10 +521,3 @@ In Proceedings of the ICCV Workshop on Visual Domain Adaptation and Dataset Bias
 
 ---
 
-## 5. 在主页引用本页面
-
-
-```md
-## Dataset
-👉 [View Dataset Page](dataset.html)
-```
