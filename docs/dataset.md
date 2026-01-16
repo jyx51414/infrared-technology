@@ -3,10 +3,7 @@ layout: default
 title: Datasets
 ---
 
-# 数据集（Datasets）
-
-本页面基于 Excel（`数据集(1)(1).xlsx` / Sheet1）生成。  
-**Task 列完全等同于 Excel 第一列“任务”，仅调整展示顺序：Dataset 在最前，Task 为第二列。**
+# 数据集
 
 ---
 
