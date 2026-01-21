@@ -53,8 +53,6 @@ title: Datasets
 | CVC-09 | 2013 ICCV | 超分 | 11,071 frames | 640×480 | 否 | 未找到 |
 | Rivadeneira et al. | 2022 VISAPP | 超分 | 1021 images | Various | 否 | [Paper1](https://refbase.cvc.uab.es/files/RSV2020.pdf) |
 | CDN-MRF | 2019 IEEE | 超分 | 20 | Various | 否 | [Paper1](https://doi.org/10.1109/TCSVT.2018.2864777) |
-| UTUAV | 未找到 | 未找到 | 未找到 | 未找到 | 未找到 | 未找到 |
-| IRBFD
-IRBFD-syn and IRBFD-real. | 2025 CVPR | 非均匀性校正（NUC）+ 红外 UAV 目标检测 | 未找到 | 未找到 | 未找到 | 未找到 |
+| IRBFD-syn and IRBFD-real. | 2025 CVPR | 非均匀性校正（NUC）+ 红外 UAV 目标检测 | 未找到 | 未找到 | 未找到 | [Paper1](https://openaccess.thecvf.com/content/CVPR2025/papers/Fang_Detection-Friendly_Nonuniformity_Correction_A_Union_Framework_for_Infrared_UAV_Target_CVPR_2025_paper.pdf?utm_source=chatgpt.com)|
 
 ---
