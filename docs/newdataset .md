@@ -9,8 +9,8 @@ title: Datasets
 
 | 数据集简称 | 发布会议及时间 | 任务 | 图像数量 | 分辨率 | 是否有配对数据（可见光、红外） | 论文路径 |
 | --- | --- | --- | --- | --- | --- | --- |
-| KAIST | CVPR 2015 | 目标检测，融合 | 95k | 640×480 | 是 | [Paper1](https://openaccess.thecvf.com/content_cvpr_2015/papers/Hwang_Multispectral_Pedestrian_Detection_2015_CVPR_paper.pdf) |
-| GTOT | TIP 2016 | 视频目标跟踪 | 50 | Various | 否 | [Paper1](https://github.com/xuboyue1999/RGBT-Tracking/blob/main/datasets/GTOT/gtot.md) |
+| KAIST | 2015 CVPR  | 目标检测，融合 | 95k | 640×480 | 是 | [Paper1](https://openaccess.thecvf.com/content_cvpr_2015/papers/Hwang_Multispectral_Pedestrian_Detection_2015_CVPR_paper.pdf) |
+| GTOT | 2016 TIP  | 视频目标跟踪 | 50 | Various | 否 | [Paper1](https://github.com/xuboyue1999/RGBT-Tracking/blob/main/datasets/GTOT/gtot.md) |
 | MS | 2017 ACM MM | 视频目标跟踪 | 2999 | RGB/FIR: 640×480；MIR/NIR: 320×256 | 是 | [Paper1](https://www.mi.t.u-tokyo.ac.jp/static/projects/mil_multispectral/) |
 | MFNet | 2017 IROS | 语义分割 | 1569 | 640×480 | 是 | [Paper1](https://www.mi.t.u-tokyo.ac.jp/static/projects/mil_multispectral/) |
 | CATS | 2017 CVPR | 立体匹配，3D重建 | 1400 | Various | 是 | [Paper1](https://openaccess.thecvf.com/content_cvpr_2017/html/Treible_CATS_A_Color_CVPR_2017_paper.html) |
