@@ -7,7 +7,7 @@ title: Datasets
 ---
 ## Dataset Comparison
 
-| 数据集简称 | 发布会议及时间 | 任务 | 图像数量 | 分辨率 | 是否有配对数据（可见光、红外） | 论文路径 |
+| 数据集简称 | 发布会议及时间 | 任务 | 图像数量 | 分辨率 |                         是否有配对数据（可见光、红外） | 论文路径 |
 | --- | --- | --- | --- | --- | --- | --- |
 | KAIST | CVPR 2015 | 目标检测，融合 | 95k | 640×480 | 是 | https://openaccess.thecvf.com/content_cvpr_2015/papers/Hwang_Multispectral_Pedestrian_Detection_2015_CVPR_paper.pdf |
 | GTOT | TIP 2016 | 视频目标跟踪 | 50 | Various | 否 | https://github.com/xuboyue1999/RGBT-Tracking/blob/main/datasets/GTOT/gtot.md |
